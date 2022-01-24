@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: 'Class 8: Challenger Banks'
+uid: 6dc4a95c-fed7-0b5b-aa2d-673cd06c4d4e
+video_files:
+  archive_url: https://archive.org/download/MIT15.S08S20/MIT15_S08S20_Class08_300k.mp4
+  video_captions_file: /courses/15-s08-fintech-shaping-the-financial-world-spring-2020/02869cf534cf52cd98aabb8739ff5c35_oYR6xdcFNwc.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/oYR6xdcFNwc/default.jpg
+  video_transcript_file: /courses/15-s08-fintech-shaping-the-financial-world-spring-2020/1755e5b9a5be033543530869ac118b78_oYR6xdcFNwc.pdf
+video_metadata:
+  youtube_id: oYR6xdcFNwc
+---
